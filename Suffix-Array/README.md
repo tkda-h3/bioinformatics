@@ -1,4 +1,4 @@
-# Suffix Array & BWT の構築アルゴリズム
+# Construnciton algorithms of Suffix Array & BWT
 ## sadakane.c
 I implemented Larsson-Sadakane algorithm, one of the construction algorithms of Suffix Array.
 
