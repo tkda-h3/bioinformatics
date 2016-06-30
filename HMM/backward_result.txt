@@ -1,0 +1,8 @@
+------Backward Algorithm----------------
+Finally, state[1] have -942.153 prob in a log scale.
+Finally, state[2] have -942.943 prob in a log scale.
+Finally, state[3] have -943.227 prob in a log scale.
+Finally, state[4] have -943.228 prob in a log scale.
+
+result is -941.394
+

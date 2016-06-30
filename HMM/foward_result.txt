@@ -1,0 +1,8 @@
+------Forward Algorithm----------------
+Finally, state[1] have -942.239 prob in a log scale.
+Finally, state[2] have -941.811 prob in a log scale.
+Finally, state[3] have -940.651 prob in a log scale.
+Finally, state[4] have -941.516 prob in a log scale.
+
+result is -941.394
+
