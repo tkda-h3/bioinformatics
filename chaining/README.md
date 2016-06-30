@@ -1,4 +1,4 @@
-# Chainig algorithm の実装
+# Chaining algorithm の実装
 ## chaining.cpp
 ゲノムを比較する際に抽出したい相同性の高い長い配列をヒューリスティックに求めるアルゴリズム
 
