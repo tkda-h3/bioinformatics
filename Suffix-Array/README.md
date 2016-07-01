@@ -5,7 +5,7 @@ I implemented Larsson-Sadakane algorithm, one of the construction algorithms of 
 [http://www.larsson.dogma.net/ssrev-tr.pdf](http://www.larsson.dogma.net/ssrev-tr.pdf)
 
 ## [induced-sorting.c](https://github.com/tkda-h3/bioinformatics/blob/master/Suffix-Array/induced-sorting.c)
-I implemented Larsson-Sadakane algorithm, one of the construction algorithms of Suffix Array.
+I implemented Induced-sorting algorithm, one of the construction algorithms of Suffix Array.
 
 [http://libir1.ied.edu.hk/pubdata/ir/link/pub/TC-2009-04-0165-Final.pdf](http://libir1.ied.edu.hk/pubdata/ir/link/pub/TC-2009-04-0165-Final.pdf)
 
